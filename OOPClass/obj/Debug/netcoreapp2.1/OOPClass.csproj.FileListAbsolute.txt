@@ -1,0 +1,8 @@
+C:\Users\Danish\source\repos\OOPTestApp\OOPClass\bin\Debug\netcoreapp2.1\OOPClass.deps.json
+C:\Users\Danish\source\repos\OOPTestApp\OOPClass\bin\Debug\netcoreapp2.1\OOPClass.dll
+C:\Users\Danish\source\repos\OOPTestApp\OOPClass\bin\Debug\netcoreapp2.1\OOPClass.pdb
+C:\Users\Danish\source\repos\OOPTestApp\OOPClass\obj\Debug\netcoreapp2.1\OOPClass.csproj.CoreCompileInputs.cache
+C:\Users\Danish\source\repos\OOPTestApp\OOPClass\obj\Debug\netcoreapp2.1\OOPClass.AssemblyInfoInputs.cache
+C:\Users\Danish\source\repos\OOPTestApp\OOPClass\obj\Debug\netcoreapp2.1\OOPClass.AssemblyInfo.cs
+C:\Users\Danish\source\repos\OOPTestApp\OOPClass\obj\Debug\netcoreapp2.1\OOPClass.dll
+C:\Users\Danish\source\repos\OOPTestApp\OOPClass\obj\Debug\netcoreapp2.1\OOPClass.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPTestApp", "OOPTestApp\OOPTestApp.csproj", "{47CF72BB-E265-4585-AD78-3BDF85B57C29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuestClass", "GuestClass\GuestClass.csproj", "{A4DD139E-1D0B-4A24-B0EB-894ABCF7F61A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47CF72BB-E265-4585-AD78-3BDF85B57C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47CF72BB-E265-4585-AD78-3BDF85B57C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47CF72BB-E265-4585-AD78-3BDF85B57C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47CF72BB-E265-4585-AD78-3BDF85B57C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4DD139E-1D0B-4A24-B0EB-894ABCF7F61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DD139E-1D0B-4A24-B0EB-894ABCF7F61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DD139E-1D0B-4A24-B0EB-894ABCF7F61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DD139E-1D0B-4A24-B0EB-894ABCF7F61A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4227AACF-794C-47AB-AD7E-8844B7F4EF70}
+	EndGlobalSection
+EndGlobal
