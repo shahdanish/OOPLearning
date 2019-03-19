@@ -6,3 +6,12 @@ C:\Users\Danish\source\repos\OOPTestApp\GuestClass\obj\Debug\netstandard2.0\Gues
 C:\Users\Danish\source\repos\OOPTestApp\GuestClass\obj\Debug\netstandard2.0\GuestClass.AssemblyInfo.cs
 C:\Users\Danish\source\repos\OOPTestApp\GuestClass\obj\Debug\netstandard2.0\GuestClass.dll
 C:\Users\Danish\source\repos\OOPTestApp\GuestClass\obj\Debug\netstandard2.0\GuestClass.pdb
+E:\danish\Projects\OOPLearning\GuestClass\bin\Debug\netstandard2.0\GuestClass.deps.json
+E:\danish\Projects\OOPLearning\GuestClass\bin\Debug\netstandard2.0\GuestClass.dll
+E:\danish\Projects\OOPLearning\GuestClass\bin\Debug\netstandard2.0\GuestClass.pdb
+E:\danish\Projects\OOPLearning\GuestClass\obj\Debug\netstandard2.0\GuestClass.csprojAssemblyReference.cache
+E:\danish\Projects\OOPLearning\GuestClass\obj\Debug\netstandard2.0\GuestClass.csproj.CoreCompileInputs.cache
+E:\danish\Projects\OOPLearning\GuestClass\obj\Debug\netstandard2.0\GuestClass.AssemblyInfoInputs.cache
+E:\danish\Projects\OOPLearning\GuestClass\obj\Debug\netstandard2.0\GuestClass.AssemblyInfo.cs
+E:\danish\Projects\OOPLearning\GuestClass\obj\Debug\netstandard2.0\GuestClass.dll
+E:\danish\Projects\OOPLearning\GuestClass\obj\Debug\netstandard2.0\GuestClass.pdb

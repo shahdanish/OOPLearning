@@ -12,8 +12,14 @@ namespace OOPTestApp.Controllers
         public ActionResult Index()
         {
             Houseclass hc = new Houseclass();
+            // polymorphism 
             hc.Guestwelcomemessage();
             hc.purposeofVisit();
+            // chaining examples
+            Houseclass hcChain1 = new Houseclass(false);
+            Houseclass hcChain2 = new Houseclass();
+            // static class method call
+            int ageMul = StaticClsPerson.calculate();
             return View();
         }
 
